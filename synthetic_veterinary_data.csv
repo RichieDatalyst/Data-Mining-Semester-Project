@@ -1,0 +1,1561 @@
+Note,Medical_Condition,Recommended_Diet,Species,Age,Weight_kg,Temperature_C,Heart_Rate,Respiratory_Rate,Severity
+"VETERINARY CASE NOTE
+
+DATE: 5/12/2024
+PATIENT ID: #73102
+SPECIES: canine
+AGE: 8 years
+WEIGHT: 48.6 kg
+TEMPERATURE: 38.5°C
+HEART RATE: 126 bpm
+RESPIRATORY RATE: 38 breaths/min
+DIAGNOSIS: Leptospirosis (mild)
+
+CLINICAL SIGNS:
+Patient presented with jaundice, vomiting, kidney failure.
+Owner reports symptoms began approximately 14 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears distressed.
+Mucous membranes pink and moist. 
+Lymph nodes not enlarged. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. ampicillin: Start immediately
+2. liver/kidney support: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 9 days
+
+DIETARY RECOMMENDATIONS:
+Low protein, kidney-friendly diet with increased hydration
+
+FOLLOW-UP:
+Schedule recheck appointment in 24 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #34360
+",Leptospirosis,DIETARY RECOMMENDATIONS:,canine,8.0,48.6,38.5,126.0,38.0,mild
+"VETERINARY CASE NOTE
+
+DATE: 16/1/2024
+PATIENT ID: #52406
+SPECIES: canine
+AGE: 3 years
+WEIGHT: 19.5 kg
+TEMPERATURE: 40.1°C
+HEART RATE: 136 bpm
+RESPIRATORY RATE: 18 breaths/min
+DIAGNOSIS: Leptospirosis (severe)
+
+CLINICAL SIGNS:
+Patient presented with jaundice, abdominal pain, vomiting.
+Owner reports symptoms began approximately 11 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears lethargic.
+Mild dehydration noted. 
+Slight lymphadenopathy. 
+Mild abdominal tenderness.
+
+TREATMENT PLAN:
+1. liver/kidney support: Start immediately
+2. ampicillin: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 4 days
+
+DIETARY RECOMMENDATIONS:
+Low protein, kidney-friendly diet with increased hydration
+
+FOLLOW-UP:
+Schedule recheck appointment in 10 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Johnson
+Veterinary License #63481
+",Leptospirosis,DIETARY RECOMMENDATIONS:,canine,3.0,19.5,40.1,136.0,18.0,severe
+"VETERINARY CASE NOTE
+
+DATE: 17/5/2024
+PATIENT ID: #78932
+SPECIES: feline
+AGE: 1 years
+WEIGHT: 32.4 kg
+TEMPERATURE: 40.5°C
+HEART RATE: 60 bpm
+RESPIRATORY RATE: 26 breaths/min
+DIAGNOSIS: Leptospirosis (moderate)
+
+CLINICAL SIGNS:
+Patient presented with abdominal pain, vomiting, fever.
+Owner reports symptoms began approximately 14 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears alert but stressed.
+Mucous membranes pale. 
+Lymph nodes not enlarged. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. fluid therapy: Start immediately
+2. liver/kidney support: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 12 days
+
+DIETARY RECOMMENDATIONS:
+Low protein, kidney-friendly diet with increased hydration
+
+FOLLOW-UP:
+Schedule recheck appointment in 23 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #64595
+",Leptospirosis,DIETARY RECOMMENDATIONS:,feline,1.0,32.4,40.5,60.0,26.0,moderate
+"VETERINARY CASE NOTE
+
+DATE: 17/11/2024
+PATIENT ID: #91746
+SPECIES: canine
+AGE: 7 years
+WEIGHT: 41.1 kg
+TEMPERATURE: 37.9°C
+HEART RATE: 113 bpm
+RESPIRATORY RATE: 19 breaths/min
+DIAGNOSIS: Addison's Disease (severe)
+
+CLINICAL SIGNS:
+Patient presented with lethargy, weakness, weight loss.
+Owner reports symptoms began approximately 12 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears distressed.
+Mucous membranes pale. 
+Moderate enlargement of submandibular lymph nodes. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. stress management: Start immediately
+2. prednisone: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 9 days
+
+DIETARY RECOMMENDATIONS:
+High-sodium diet with balanced nutrients
+
+FOLLOW-UP:
+Schedule recheck appointment in 25 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #33391
+",Addison's Disease,DIETARY RECOMMENDATIONS:,canine,7.0,41.1,37.9,113.0,19.0,severe
+"VETERINARY CASE NOTE
+
+DATE: 19/12/2024
+PATIENT ID: #27170
+SPECIES: feline
+AGE: 11 years
+WEIGHT: 7.6 kg
+TEMPERATURE: 40.0°C
+HEART RATE: 145 bpm
+RESPIRATORY RATE: 24 breaths/min
+DIAGNOSIS: Addison's Disease (severe)
+
+CLINICAL SIGNS:
+Patient presented with low blood pressure, lethargy, weight loss.
+Owner reports symptoms began approximately 1 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears lethargic.
+Mucous membranes pink and moist. 
+Moderate enlargement of submandibular lymph nodes. 
+Mild abdominal tenderness.
+
+TREATMENT PLAN:
+1. prednisone: Start immediately
+2. fludrocortisone: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 4 days
+
+DIETARY RECOMMENDATIONS:
+High-sodium diet with balanced nutrients
+
+FOLLOW-UP:
+Schedule recheck appointment in 27 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #30876
+",Addison's Disease,DIETARY RECOMMENDATIONS:,feline,11.0,7.6,40.0,145.0,24.0,severe
+"VETERINARY CASE NOTE
+
+DATE: 20/1/2024
+PATIENT ID: #23733
+SPECIES: canine
+AGE: 7 years
+WEIGHT: 22.7 kg
+TEMPERATURE: 38.6°C
+HEART RATE: 178 bpm
+RESPIRATORY RATE: 10 breaths/min
+DIAGNOSIS: Addison's Disease (moderate)
+
+CLINICAL SIGNS:
+Patient presented with vomiting, weight loss, weakness.
+Owner reports symptoms began approximately 8 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears quiet but responsive.
+Mucous membranes pale. 
+Moderate enlargement of submandibular lymph nodes. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. prednisone: Start immediately
+2. stress management: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 8 days
+
+DIETARY RECOMMENDATIONS:
+High-sodium diet with balanced nutrients
+
+FOLLOW-UP:
+Schedule recheck appointment in 18 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #39879
+",Addison's Disease,DIETARY RECOMMENDATIONS:,canine,7.0,22.7,38.6,178.0,10.0,moderate
+"VETERINARY CASE NOTE
+
+DATE: 5/6/2024
+PATIENT ID: #18718
+SPECIES: sheep
+AGE: 9 years
+WEIGHT: 45.4 kg
+TEMPERATURE: 40.5°C
+HEART RATE: 94 bpm
+RESPIRATORY RATE: 24 breaths/min
+DIAGNOSIS: Pasteurellosis (severe)
+
+CLINICAL SIGNS:
+Patient presented with nasal discharge, sneezing, abscesses.
+Owner reports symptoms began approximately 9 days ago.
+
+PHYSICAL EXAMINATION:
+Sheep appears quiet but responsive.
+Mucous membranes pale. 
+Slight lymphadenopathy. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. enrofloxacin: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 6 days
+
+DIETARY RECOMMENDATIONS:
+High-quality diet with immune-boosting supplements
+
+FOLLOW-UP:
+Schedule recheck appointment in 7 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #92041
+",Pasteurellosis,DIETARY RECOMMENDATIONS:,sheep,9.0,45.4,40.5,94.0,24.0,severe
+"VETERINARY CASE NOTE
+
+DATE: 17/10/2024
+PATIENT ID: #16129
+SPECIES: cattle
+AGE: 6 years
+WEIGHT: 9.7 kg
+TEMPERATURE: 38.6°C
+HEART RATE: 70 bpm
+RESPIRATORY RATE: 33 breaths/min
+DIAGNOSIS: Pasteurellosis (moderate)
+
+CLINICAL SIGNS:
+Patient presented with conjunctivitis, abscesses, sneezing.
+Owner reports symptoms began approximately 1 days ago.
+
+PHYSICAL EXAMINATION:
+Cattle appears quiet but responsive.
+Hydration status adequate. 
+Slight lymphadenopathy. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. trimethoprim-sulfa: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 8 days
+
+DIETARY RECOMMENDATIONS:
+High-quality diet with immune-boosting supplements
+
+FOLLOW-UP:
+Schedule recheck appointment in 22 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #17038
+",Pasteurellosis,DIETARY RECOMMENDATIONS:,cattle,6.0,9.7,38.6,70.0,33.0,moderate
+"VETERINARY CASE NOTE
+
+DATE: 4/6/2024
+PATIENT ID: #21223
+SPECIES: sheep
+AGE: 3 years
+WEIGHT: 9.9 kg
+TEMPERATURE: 40.3°C
+HEART RATE: 134 bpm
+RESPIRATORY RATE: 15 breaths/min
+DIAGNOSIS: Pasteurellosis (severe)
+
+CLINICAL SIGNS:
+Patient presented with abscesses, conjunctivitis, respiratory issues.
+Owner reports symptoms began approximately 4 days ago.
+
+PHYSICAL EXAMINATION:
+Sheep appears lethargic.
+Mucous membranes pink and moist. 
+Lymph nodes not enlarged. 
+Mild abdominal tenderness.
+
+TREATMENT PLAN:
+1. wound cleaning: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 4 days
+
+DIETARY RECOMMENDATIONS:
+High-quality diet with immune-boosting supplements
+
+FOLLOW-UP:
+Schedule recheck appointment in 17 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Miller
+Veterinary License #87779
+",Pasteurellosis,DIETARY RECOMMENDATIONS:,sheep,3.0,9.9,40.3,134.0,15.0,severe
+"VETERINARY CASE NOTE
+
+DATE: 8/10/2024
+PATIENT ID: #38962
+SPECIES: feline
+AGE: 1 years
+WEIGHT: 40.1 kg
+TEMPERATURE: 38.6°C
+HEART RATE: 66 bpm
+RESPIRATORY RATE: 12 breaths/min
+DIAGNOSIS: Feline Immunodeficiency Virus (mild)
+
+CLINICAL SIGNS:
+Patient presented with fever, weight loss, chronic infections.
+Owner reports symptoms began approximately 9 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears quiet but responsive.
+Mild dehydration noted. 
+Moderate enlargement of submandibular lymph nodes. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. supportive care: Start immediately
+2. regular monitoring: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 3 days
+
+DIETARY RECOMMENDATIONS:
+High-calorie, nutrient-dense diet with immune support
+
+FOLLOW-UP:
+Schedule recheck appointment in 19 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #91411
+",Feline Immunodeficiency Virus,DIETARY RECOMMENDATIONS:,feline,1.0,40.1,38.6,66.0,12.0,mild
+"VETERINARY CASE NOTE
+
+DATE: 25/10/2024
+PATIENT ID: #33723
+SPECIES: feline
+AGE: 7 years
+WEIGHT: 47.8 kg
+TEMPERATURE: 38.9°C
+HEART RATE: 85 bpm
+RESPIRATORY RATE: 39 breaths/min
+DIAGNOSIS: Feline Immunodeficiency Virus (mild)
+
+CLINICAL SIGNS:
+Patient presented with chronic infections, fever, lethargy.
+Owner reports symptoms began approximately 3 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears alert but stressed.
+Mucous membranes pale. 
+Moderate enlargement of submandibular lymph nodes. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. regular monitoring: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 13 days
+
+DIETARY RECOMMENDATIONS:
+High-calorie, nutrient-dense diet with immune support
+
+FOLLOW-UP:
+Schedule recheck appointment in 25 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Johnson
+Veterinary License #63503
+",Feline Immunodeficiency Virus,DIETARY RECOMMENDATIONS:,feline,7.0,47.8,38.9,85.0,39.0,mild
+"VETERINARY CASE NOTE
+
+DATE: 12/5/2024
+PATIENT ID: #67585
+SPECIES: feline
+AGE: 10 years
+WEIGHT: 13.3 kg
+TEMPERATURE: 37.8°C
+HEART RATE: 112 bpm
+RESPIRATORY RATE: 29 breaths/min
+DIAGNOSIS: Feline Immunodeficiency Virus (moderate)
+
+CLINICAL SIGNS:
+Patient presented with chronic infections, weight loss, poor coat condition.
+Owner reports symptoms began approximately 5 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears distressed.
+Mucous membranes pink and moist. 
+Moderate enlargement of submandibular lymph nodes. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. regular monitoring: Start immediately
+2. antimicrobials for secondary infections: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 3 days
+
+DIETARY RECOMMENDATIONS:
+High-calorie, nutrient-dense diet with immune support
+
+FOLLOW-UP:
+Schedule recheck appointment in 12 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #11222
+",Feline Immunodeficiency Virus,DIETARY RECOMMENDATIONS:,feline,10.0,13.3,37.8,112.0,29.0,moderate
+"VETERINARY CASE NOTE
+
+DATE: 10/5/2024
+PATIENT ID: #41966
+SPECIES: ferrets
+AGE: 3 years
+WEIGHT: 5.1 kg
+TEMPERATURE: 38.0°C
+HEART RATE: 88 bpm
+RESPIRATORY RATE: 25 breaths/min
+DIAGNOSIS: Heartworm (moderate)
+
+CLINICAL SIGNS:
+Patient presented with difficulty breathing, coughing, heart failure.
+Owner reports symptoms began approximately 13 days ago.
+
+PHYSICAL EXAMINATION:
+Ferrets appears distressed.
+Mild dehydration noted. 
+Lymph nodes not enlarged. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. melarsomine: Start immediately
+2. exercise restriction: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 11 days
+
+DIETARY RECOMMENDATIONS:
+Low-sodium, high-quality diet with restricted exercise
+
+FOLLOW-UP:
+Schedule recheck appointment in 25 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #77569
+",Heartworm,DIETARY RECOMMENDATIONS:,ferrets,3.0,5.1,38.0,88.0,25.0,moderate
+"VETERINARY CASE NOTE
+
+DATE: 24/2/2024
+PATIENT ID: #45137
+SPECIES: ferrets
+AGE: 14 years
+WEIGHT: 35.0 kg
+TEMPERATURE: 37.8°C
+HEART RATE: 179 bpm
+RESPIRATORY RATE: 35 breaths/min
+DIAGNOSIS: Heartworm (moderate)
+
+CLINICAL SIGNS:
+Patient presented with weight loss, fatigue, heart failure.
+Owner reports symptoms began approximately 14 days ago.
+
+PHYSICAL EXAMINATION:
+Ferrets appears distressed.
+Mild dehydration noted. 
+Lymph nodes not enlarged. 
+Mild abdominal tenderness.
+
+TREATMENT PLAN:
+1. exercise restriction: Start immediately
+2. doxycycline: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 8 days
+
+DIETARY RECOMMENDATIONS:
+Low-sodium, high-quality diet with restricted exercise
+
+FOLLOW-UP:
+Schedule recheck appointment in 21 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Johnson
+Veterinary License #90860
+",Heartworm,DIETARY RECOMMENDATIONS:,ferrets,14.0,35.0,37.8,179.0,35.0,moderate
+"VETERINARY CASE NOTE
+
+DATE: 7/4/2024
+PATIENT ID: #80973
+SPECIES: cats
+AGE: 12 years
+WEIGHT: 27.1 kg
+TEMPERATURE: 38.8°C
+HEART RATE: 94 bpm
+RESPIRATORY RATE: 33 breaths/min
+DIAGNOSIS: Heartworm (moderate)
+
+CLINICAL SIGNS:
+Patient presented with fatigue, difficulty breathing, coughing.
+Owner reports symptoms began approximately 3 days ago.
+
+PHYSICAL EXAMINATION:
+Cats appears lethargic.
+Mild dehydration noted. 
+Lymph nodes not enlarged. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. doxycycline: Start immediately
+2. melarsomine: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 11 days
+
+DIETARY RECOMMENDATIONS:
+Low-sodium, high-quality diet with restricted exercise
+
+FOLLOW-UP:
+Schedule recheck appointment in 23 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #56984
+",Heartworm,DIETARY RECOMMENDATIONS:,cats,12.0,27.1,38.8,94.0,33.0,moderate
+"VETERINARY CASE NOTE
+
+DATE: 17/5/2024
+PATIENT ID: #78932
+SPECIES: feline
+AGE: 1 years
+WEIGHT: 32.4 kg
+TEMPERATURE: 40.5°C
+HEART RATE: 60 bpm
+RESPIRATORY RATE: 26 breaths/min
+DIAGNOSIS: Leptospirosis (moderate)
+
+CLINICAL SIGNS:
+Patient presented with abdominal pain, vomiting, fever.
+Owner reports symptoms began approximately 14 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears alert but stressed.
+Mucous membranes pale. 
+Lymph nodes not enlarged. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. fluid therapy: Start immediately
+2. liver/kidney support: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 12 days
+
+DIETARY RECOMMENDATIONS:
+Low protein, kidney-friendly diet with increased hydration
+
+FOLLOW-UP:
+Schedule recheck appointment in 23 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #64595
+",Leptospirosis,DIETARY RECOMMENDATIONS:,feline,1.7260341584973098,33.90633738202552,40.41692785045123,59.00456865014716,27.290872614720563,moderate
+"VETERINARY CASE NOTE
+
+DATE: 5/12/2024
+PATIENT ID: #73102
+SPECIES: canine
+AGE: 8 years
+WEIGHT: 48.6 kg
+TEMPERATURE: 38.5°C
+HEART RATE: 126 bpm
+RESPIRATORY RATE: 38 breaths/min
+DIAGNOSIS: Leptospirosis (mild)
+
+CLINICAL SIGNS:
+Patient presented with jaundice, vomiting, kidney failure.
+Owner reports symptoms began approximately 14 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears distressed.
+Mucous membranes pink and moist. 
+Lymph nodes not enlarged. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. ampicillin: Start immediately
+2. liver/kidney support: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 9 days
+
+DIETARY RECOMMENDATIONS:
+Low protein, kidney-friendly diet with increased hydration
+
+FOLLOW-UP:
+Schedule recheck appointment in 24 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #34360
+",Leptospirosis,DIETARY RECOMMENDATIONS:,canine,8.204600230056627,47.412698133785945,38.544338339428585,128.28323020159897,37.90247223434306,mild
+"VETERINARY CASE NOTE
+
+DATE: 17/5/2024
+PATIENT ID: #78932
+SPECIES: feline
+AGE: 1 years
+WEIGHT: 32.4 kg
+TEMPERATURE: 40.5°C
+HEART RATE: 60 bpm
+RESPIRATORY RATE: 26 breaths/min
+DIAGNOSIS: Leptospirosis (moderate)
+
+CLINICAL SIGNS:
+Patient presented with abdominal pain, vomiting, fever.
+Owner reports symptoms began approximately 14 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears alert but stressed.
+Mucous membranes pale. 
+Lymph nodes not enlarged. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. fluid therapy: Start immediately
+2. liver/kidney support: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 12 days
+
+DIETARY RECOMMENDATIONS:
+Low protein, kidney-friendly diet with increased hydration
+
+FOLLOW-UP:
+Schedule recheck appointment in 23 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #64595
+",Leptospirosis,DIETARY RECOMMENDATIONS:,feline,1.2652592775310896,32.13133442677319,40.559426439581074,59.458278175926836,25.029205222222835,moderate
+"VETERINARY CASE NOTE
+
+DATE: 17/5/2024
+PATIENT ID: #78932
+SPECIES: feline
+AGE: 1 years
+WEIGHT: 32.4 kg
+TEMPERATURE: 40.5°C
+HEART RATE: 60 bpm
+RESPIRATORY RATE: 26 breaths/min
+DIAGNOSIS: Leptospirosis (moderate)
+
+CLINICAL SIGNS:
+Patient presented with abdominal pain, vomiting, fever.
+Owner reports symptoms began approximately 14 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears alert but stressed.
+Mucous membranes pale. 
+Lymph nodes not enlarged. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. fluid therapy: Start immediately
+2. liver/kidney support: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 12 days
+
+DIETARY RECOMMENDATIONS:
+Low protein, kidney-friendly diet with increased hydration
+
+FOLLOW-UP:
+Schedule recheck appointment in 23 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #64595
+",Leptospirosis,DIETARY RECOMMENDATIONS:,feline,1.0496928815987419,32.254103150319644,40.73507223100391,63.71707735325243,26.48901838481898,moderate
+"VETERINARY CASE NOTE
+
+DATE: 5/12/2024
+PATIENT ID: #73102
+SPECIES: canine
+AGE: 8 years
+WEIGHT: 48.6 kg
+TEMPERATURE: 38.5°C
+HEART RATE: 126 bpm
+RESPIRATORY RATE: 38 breaths/min
+DIAGNOSIS: Leptospirosis (mild)
+
+CLINICAL SIGNS:
+Patient presented with jaundice, vomiting, kidney failure.
+Owner reports symptoms began approximately 14 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears distressed.
+Mucous membranes pink and moist. 
+Lymph nodes not enlarged. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. ampicillin: Start immediately
+2. liver/kidney support: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 9 days
+
+DIETARY RECOMMENDATIONS:
+Low protein, kidney-friendly diet with increased hydration
+
+FOLLOW-UP:
+Schedule recheck appointment in 24 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #34360
+",Leptospirosis,DIETARY RECOMMENDATIONS:,canine,7.987176079224103,47.616963531112646,38.58675247133794,129.41317611808026,37.060128702967326,mild
+"VETERINARY CASE NOTE
+
+DATE: 20/1/2024
+PATIENT ID: #23733
+SPECIES: canine
+AGE: 7 years
+WEIGHT: 22.7 kg
+TEMPERATURE: 38.6°C
+HEART RATE: 178 bpm
+RESPIRATORY RATE: 10 breaths/min
+DIAGNOSIS: Addison's Disease (moderate)
+
+CLINICAL SIGNS:
+Patient presented with vomiting, weight loss, weakness.
+Owner reports symptoms began approximately 8 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears quiet but responsive.
+Mucous membranes pale. 
+Moderate enlargement of submandibular lymph nodes. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. prednisone: Start immediately
+2. stress management: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 8 days
+
+DIETARY RECOMMENDATIONS:
+High-sodium diet with balanced nutrients
+
+FOLLOW-UP:
+Schedule recheck appointment in 18 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #39879
+",Addison's Disease,DIETARY RECOMMENDATIONS:,canine,7.0,20.904473250505692,38.550260379354974,178.04217797632666,9.454576026089303,moderate
+"VETERINARY CASE NOTE
+
+DATE: 17/11/2024
+PATIENT ID: #91746
+SPECIES: canine
+AGE: 7 years
+WEIGHT: 41.1 kg
+TEMPERATURE: 37.9°C
+HEART RATE: 113 bpm
+RESPIRATORY RATE: 19 breaths/min
+DIAGNOSIS: Addison's Disease (severe)
+
+CLINICAL SIGNS:
+Patient presented with lethargy, weakness, weight loss.
+Owner reports symptoms began approximately 12 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears distressed.
+Mucous membranes pale. 
+Moderate enlargement of submandibular lymph nodes. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. stress management: Start immediately
+2. prednisone: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 9 days
+
+DIETARY RECOMMENDATIONS:
+High-sodium diet with balanced nutrients
+
+FOLLOW-UP:
+Schedule recheck appointment in 25 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #33391
+",Addison's Disease,DIETARY RECOMMENDATIONS:,canine,7.0,43.83628379764853,37.817896948414614,113.75763437701387,19.40367198962769,severe
+"VETERINARY CASE NOTE
+
+DATE: 20/1/2024
+PATIENT ID: #23733
+SPECIES: canine
+AGE: 7 years
+WEIGHT: 22.7 kg
+TEMPERATURE: 38.6°C
+HEART RATE: 178 bpm
+RESPIRATORY RATE: 10 breaths/min
+DIAGNOSIS: Addison's Disease (moderate)
+
+CLINICAL SIGNS:
+Patient presented with vomiting, weight loss, weakness.
+Owner reports symptoms began approximately 8 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears quiet but responsive.
+Mucous membranes pale. 
+Moderate enlargement of submandibular lymph nodes. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. prednisone: Start immediately
+2. stress management: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 8 days
+
+DIETARY RECOMMENDATIONS:
+High-sodium diet with balanced nutrients
+
+FOLLOW-UP:
+Schedule recheck appointment in 18 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #39879
+",Addison's Disease,DIETARY RECOMMENDATIONS:,canine,7.0,21.124411839644814,38.65098842711354,178.8340552674933,10.346583780497337,moderate
+"VETERINARY CASE NOTE
+
+DATE: 20/1/2024
+PATIENT ID: #23733
+SPECIES: canine
+AGE: 7 years
+WEIGHT: 22.7 kg
+TEMPERATURE: 38.6°C
+HEART RATE: 178 bpm
+RESPIRATORY RATE: 10 breaths/min
+DIAGNOSIS: Addison's Disease (moderate)
+
+CLINICAL SIGNS:
+Patient presented with vomiting, weight loss, weakness.
+Owner reports symptoms began approximately 8 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears quiet but responsive.
+Mucous membranes pale. 
+Moderate enlargement of submandibular lymph nodes. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. prednisone: Start immediately
+2. stress management: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 8 days
+
+DIETARY RECOMMENDATIONS:
+High-sodium diet with balanced nutrients
+
+FOLLOW-UP:
+Schedule recheck appointment in 18 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #39879
+",Addison's Disease,DIETARY RECOMMENDATIONS:,canine,7.0,21.582346169553247,38.62353205208715,179.4132236799335,9.401457135203705,moderate
+"VETERINARY CASE NOTE
+
+DATE: 17/11/2024
+PATIENT ID: #91746
+SPECIES: canine
+AGE: 7 years
+WEIGHT: 41.1 kg
+TEMPERATURE: 37.9°C
+HEART RATE: 113 bpm
+RESPIRATORY RATE: 19 breaths/min
+DIAGNOSIS: Addison's Disease (severe)
+
+CLINICAL SIGNS:
+Patient presented with lethargy, weakness, weight loss.
+Owner reports symptoms began approximately 12 days ago.
+
+PHYSICAL EXAMINATION:
+Canine appears distressed.
+Mucous membranes pale. 
+Moderate enlargement of submandibular lymph nodes. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. stress management: Start immediately
+2. prednisone: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 9 days
+
+DIETARY RECOMMENDATIONS:
+High-sodium diet with balanced nutrients
+
+FOLLOW-UP:
+Schedule recheck appointment in 25 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #33391
+",Addison's Disease,DIETARY RECOMMENDATIONS:,canine,7.0,43.25478341459306,37.899505886173486,114.17501735331055,19.13672016314689,severe
+"VETERINARY CASE NOTE
+
+DATE: 4/6/2024
+PATIENT ID: #21223
+SPECIES: sheep
+AGE: 3 years
+WEIGHT: 9.9 kg
+TEMPERATURE: 40.3°C
+HEART RATE: 134 bpm
+RESPIRATORY RATE: 15 breaths/min
+DIAGNOSIS: Pasteurellosis (severe)
+
+CLINICAL SIGNS:
+Patient presented with abscesses, conjunctivitis, respiratory issues.
+Owner reports symptoms began approximately 4 days ago.
+
+PHYSICAL EXAMINATION:
+Sheep appears lethargic.
+Mucous membranes pink and moist. 
+Lymph nodes not enlarged. 
+Mild abdominal tenderness.
+
+TREATMENT PLAN:
+1. wound cleaning: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 4 days
+
+DIETARY RECOMMENDATIONS:
+High-quality diet with immune-boosting supplements
+
+FOLLOW-UP:
+Schedule recheck appointment in 17 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Miller
+Veterinary License #87779
+",Pasteurellosis,DIETARY RECOMMENDATIONS:,sheep,3.097698489523865,9.461756494827812,40.290415648673026,136.39586722755033,15.109348451915247,severe
+"VETERINARY CASE NOTE
+
+DATE: 5/6/2024
+PATIENT ID: #18718
+SPECIES: sheep
+AGE: 9 years
+WEIGHT: 45.4 kg
+TEMPERATURE: 40.5°C
+HEART RATE: 94 bpm
+RESPIRATORY RATE: 24 breaths/min
+DIAGNOSIS: Pasteurellosis (severe)
+
+CLINICAL SIGNS:
+Patient presented with nasal discharge, sneezing, abscesses.
+Owner reports symptoms began approximately 9 days ago.
+
+PHYSICAL EXAMINATION:
+Sheep appears quiet but responsive.
+Mucous membranes pale. 
+Slight lymphadenopathy. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. enrofloxacin: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 6 days
+
+DIETARY RECOMMENDATIONS:
+High-quality diet with immune-boosting supplements
+
+FOLLOW-UP:
+Schedule recheck appointment in 7 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #92041
+",Pasteurellosis,DIETARY RECOMMENDATIONS:,sheep,8.256845415222301,48.436343208743544,40.508323826218735,90.5393135831111,24.219108524720887,severe
+"VETERINARY CASE NOTE
+
+DATE: 4/6/2024
+PATIENT ID: #21223
+SPECIES: sheep
+AGE: 3 years
+WEIGHT: 9.9 kg
+TEMPERATURE: 40.3°C
+HEART RATE: 134 bpm
+RESPIRATORY RATE: 15 breaths/min
+DIAGNOSIS: Pasteurellosis (severe)
+
+CLINICAL SIGNS:
+Patient presented with abscesses, conjunctivitis, respiratory issues.
+Owner reports symptoms began approximately 4 days ago.
+
+PHYSICAL EXAMINATION:
+Sheep appears lethargic.
+Mucous membranes pink and moist. 
+Lymph nodes not enlarged. 
+Mild abdominal tenderness.
+
+TREATMENT PLAN:
+1. wound cleaning: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 4 days
+
+DIETARY RECOMMENDATIONS:
+High-quality diet with immune-boosting supplements
+
+FOLLOW-UP:
+Schedule recheck appointment in 17 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Miller
+Veterinary License #87779
+",Pasteurellosis,DIETARY RECOMMENDATIONS:,sheep,2.689037739452512,8.705704060307426,40.311298963977904,136.20095688536858,15.147620739177828,severe
+"VETERINARY CASE NOTE
+
+DATE: 4/6/2024
+PATIENT ID: #21223
+SPECIES: sheep
+AGE: 3 years
+WEIGHT: 9.9 kg
+TEMPERATURE: 40.3°C
+HEART RATE: 134 bpm
+RESPIRATORY RATE: 15 breaths/min
+DIAGNOSIS: Pasteurellosis (severe)
+
+CLINICAL SIGNS:
+Patient presented with abscesses, conjunctivitis, respiratory issues.
+Owner reports symptoms began approximately 4 days ago.
+
+PHYSICAL EXAMINATION:
+Sheep appears lethargic.
+Mucous membranes pink and moist. 
+Lymph nodes not enlarged. 
+Mild abdominal tenderness.
+
+TREATMENT PLAN:
+1. wound cleaning: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 4 days
+
+DIETARY RECOMMENDATIONS:
+High-quality diet with immune-boosting supplements
+
+FOLLOW-UP:
+Schedule recheck appointment in 17 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Miller
+Veterinary License #87779
+",Pasteurellosis,DIETARY RECOMMENDATIONS:,sheep,2.944067229777382,10.970685788705548,40.286753315807296,139.00808453881854,14.476643800767127,severe
+"VETERINARY CASE NOTE
+
+DATE: 5/6/2024
+PATIENT ID: #18718
+SPECIES: sheep
+AGE: 9 years
+WEIGHT: 45.4 kg
+TEMPERATURE: 40.5°C
+HEART RATE: 94 bpm
+RESPIRATORY RATE: 24 breaths/min
+DIAGNOSIS: Pasteurellosis (severe)
+
+CLINICAL SIGNS:
+Patient presented with nasal discharge, sneezing, abscesses.
+Owner reports symptoms began approximately 9 days ago.
+
+PHYSICAL EXAMINATION:
+Sheep appears quiet but responsive.
+Mucous membranes pale. 
+Slight lymphadenopathy. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. enrofloxacin: Start immediately
+2. supportive care: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 6 days
+
+DIETARY RECOMMENDATIONS:
+High-quality diet with immune-boosting supplements
+
+FOLLOW-UP:
+Schedule recheck appointment in 7 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Davis
+Veterinary License #92041
+",Pasteurellosis,DIETARY RECOMMENDATIONS:,sheep,9.27322140004011,46.86373460856774,40.509723954295445,94.3123254670399,23.863318336398955,severe
+"VETERINARY CASE NOTE
+
+DATE: 12/5/2024
+PATIENT ID: #67585
+SPECIES: feline
+AGE: 10 years
+WEIGHT: 13.3 kg
+TEMPERATURE: 37.8°C
+HEART RATE: 112 bpm
+RESPIRATORY RATE: 29 breaths/min
+DIAGNOSIS: Feline Immunodeficiency Virus (moderate)
+
+CLINICAL SIGNS:
+Patient presented with chronic infections, weight loss, poor coat condition.
+Owner reports symptoms began approximately 5 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears distressed.
+Mucous membranes pink and moist. 
+Moderate enlargement of submandibular lymph nodes. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. regular monitoring: Start immediately
+2. antimicrobials for secondary infections: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 3 days
+
+DIETARY RECOMMENDATIONS:
+High-calorie, nutrient-dense diet with immune support
+
+FOLLOW-UP:
+Schedule recheck appointment in 12 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #11222
+",Feline Immunodeficiency Virus,DIETARY RECOMMENDATIONS:,feline,9.362308246355827,13.288911233981846,37.85467286733155,109.99777858397273,29.410934030551715,moderate
+"VETERINARY CASE NOTE
+
+DATE: 8/10/2024
+PATIENT ID: #38962
+SPECIES: feline
+AGE: 1 years
+WEIGHT: 40.1 kg
+TEMPERATURE: 38.6°C
+HEART RATE: 66 bpm
+RESPIRATORY RATE: 12 breaths/min
+DIAGNOSIS: Feline Immunodeficiency Virus (mild)
+
+CLINICAL SIGNS:
+Patient presented with fever, weight loss, chronic infections.
+Owner reports symptoms began approximately 9 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears quiet but responsive.
+Mild dehydration noted. 
+Moderate enlargement of submandibular lymph nodes. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. supportive care: Start immediately
+2. regular monitoring: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 3 days
+
+DIETARY RECOMMENDATIONS:
+High-calorie, nutrient-dense diet with immune support
+
+FOLLOW-UP:
+Schedule recheck appointment in 19 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #91411
+",Feline Immunodeficiency Virus,DIETARY RECOMMENDATIONS:,feline,0.7030158553815912,40.57537369325777,38.577767264581865,66.97104706072223,12.118696809456562,mild
+"VETERINARY CASE NOTE
+
+DATE: 12/5/2024
+PATIENT ID: #67585
+SPECIES: feline
+AGE: 10 years
+WEIGHT: 13.3 kg
+TEMPERATURE: 37.8°C
+HEART RATE: 112 bpm
+RESPIRATORY RATE: 29 breaths/min
+DIAGNOSIS: Feline Immunodeficiency Virus (moderate)
+
+CLINICAL SIGNS:
+Patient presented with chronic infections, weight loss, poor coat condition.
+Owner reports symptoms began approximately 5 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears distressed.
+Mucous membranes pink and moist. 
+Moderate enlargement of submandibular lymph nodes. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. regular monitoring: Start immediately
+2. antimicrobials for secondary infections: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 3 days
+
+DIETARY RECOMMENDATIONS:
+High-calorie, nutrient-dense diet with immune support
+
+FOLLOW-UP:
+Schedule recheck appointment in 12 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #11222
+",Feline Immunodeficiency Virus,DIETARY RECOMMENDATIONS:,feline,9.716694057518614,11.460257049507227,37.872702484032885,108.50012505109358,27.775259157660347,moderate
+"VETERINARY CASE NOTE
+
+DATE: 12/5/2024
+PATIENT ID: #67585
+SPECIES: feline
+AGE: 10 years
+WEIGHT: 13.3 kg
+TEMPERATURE: 37.8°C
+HEART RATE: 112 bpm
+RESPIRATORY RATE: 29 breaths/min
+DIAGNOSIS: Feline Immunodeficiency Virus (moderate)
+
+CLINICAL SIGNS:
+Patient presented with chronic infections, weight loss, poor coat condition.
+Owner reports symptoms began approximately 5 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears distressed.
+Mucous membranes pink and moist. 
+Moderate enlargement of submandibular lymph nodes. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. regular monitoring: Start immediately
+2. antimicrobials for secondary infections: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 3 days
+
+DIETARY RECOMMENDATIONS:
+High-calorie, nutrient-dense diet with immune support
+
+FOLLOW-UP:
+Schedule recheck appointment in 12 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Smith
+Veterinary License #11222
+",Feline Immunodeficiency Virus,DIETARY RECOMMENDATIONS:,feline,9.645965246348883,15.209576790065617,37.79520692708341,116.33320524314735,28.285863376022224,moderate
+"VETERINARY CASE NOTE
+
+DATE: 8/10/2024
+PATIENT ID: #38962
+SPECIES: feline
+AGE: 1 years
+WEIGHT: 40.1 kg
+TEMPERATURE: 38.6°C
+HEART RATE: 66 bpm
+RESPIRATORY RATE: 12 breaths/min
+DIAGNOSIS: Feline Immunodeficiency Virus (mild)
+
+CLINICAL SIGNS:
+Patient presented with fever, weight loss, chronic infections.
+Owner reports symptoms began approximately 9 days ago.
+
+PHYSICAL EXAMINATION:
+Feline appears quiet but responsive.
+Mild dehydration noted. 
+Moderate enlargement of submandibular lymph nodes. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. supportive care: Start immediately
+2. regular monitoring: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 3 days
+
+DIETARY RECOMMENDATIONS:
+High-calorie, nutrient-dense diet with immune support
+
+FOLLOW-UP:
+Schedule recheck appointment in 19 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #91411
+",Feline Immunodeficiency Virus,DIETARY RECOMMENDATIONS:,feline,1.3475312522175686,38.96677530643808,38.48682684306263,71.08594570599865,10.537913364806103,mild
+"VETERINARY CASE NOTE
+
+DATE: 7/4/2024
+PATIENT ID: #80973
+SPECIES: cats
+AGE: 12 years
+WEIGHT: 27.1 kg
+TEMPERATURE: 38.8°C
+HEART RATE: 94 bpm
+RESPIRATORY RATE: 33 breaths/min
+DIAGNOSIS: Heartworm (moderate)
+
+CLINICAL SIGNS:
+Patient presented with fatigue, difficulty breathing, coughing.
+Owner reports symptoms began approximately 3 days ago.
+
+PHYSICAL EXAMINATION:
+Cats appears lethargic.
+Mild dehydration noted. 
+Lymph nodes not enlarged. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. doxycycline: Start immediately
+2. melarsomine: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 11 days
+
+DIETARY RECOMMENDATIONS:
+Low-sodium, high-quality diet with restricted exercise
+
+FOLLOW-UP:
+Schedule recheck appointment in 23 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #56984
+",Heartworm,DIETARY RECOMMENDATIONS:,cats,12.431291398286419,30.076740444684756,38.80220184398848,93.65627241994783,33.005481769026524,moderate
+"VETERINARY CASE NOTE
+
+DATE: 10/5/2024
+PATIENT ID: #41966
+SPECIES: ferrets
+AGE: 3 years
+WEIGHT: 5.1 kg
+TEMPERATURE: 38.0°C
+HEART RATE: 88 bpm
+RESPIRATORY RATE: 25 breaths/min
+DIAGNOSIS: Heartworm (moderate)
+
+CLINICAL SIGNS:
+Patient presented with difficulty breathing, coughing, heart failure.
+Owner reports symptoms began approximately 13 days ago.
+
+PHYSICAL EXAMINATION:
+Ferrets appears distressed.
+Mild dehydration noted. 
+Lymph nodes not enlarged. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. melarsomine: Start immediately
+2. exercise restriction: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 11 days
+
+DIETARY RECOMMENDATIONS:
+Low-sodium, high-quality diet with restricted exercise
+
+FOLLOW-UP:
+Schedule recheck appointment in 25 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #77569
+",Heartworm,DIETARY RECOMMENDATIONS:,ferrets,3.457981793321687,2.7890056520613635,37.99916056338616,88.34858622691786,24.931882262286333,moderate
+"VETERINARY CASE NOTE
+
+DATE: 7/4/2024
+PATIENT ID: #80973
+SPECIES: cats
+AGE: 12 years
+WEIGHT: 27.1 kg
+TEMPERATURE: 38.8°C
+HEART RATE: 94 bpm
+RESPIRATORY RATE: 33 breaths/min
+DIAGNOSIS: Heartworm (moderate)
+
+CLINICAL SIGNS:
+Patient presented with fatigue, difficulty breathing, coughing.
+Owner reports symptoms began approximately 3 days ago.
+
+PHYSICAL EXAMINATION:
+Cats appears lethargic.
+Mild dehydration noted. 
+Lymph nodes not enlarged. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. doxycycline: Start immediately
+2. melarsomine: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 11 days
+
+DIETARY RECOMMENDATIONS:
+Low-sodium, high-quality diet with restricted exercise
+
+FOLLOW-UP:
+Schedule recheck appointment in 23 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #56984
+",Heartworm,DIETARY RECOMMENDATIONS:,cats,11.996912964775184,27.626965869026286,38.7673769529363,94.27039987082125,33.86051229451418,moderate
+"VETERINARY CASE NOTE
+
+DATE: 7/4/2024
+PATIENT ID: #80973
+SPECIES: cats
+AGE: 12 years
+WEIGHT: 27.1 kg
+TEMPERATURE: 38.8°C
+HEART RATE: 94 bpm
+RESPIRATORY RATE: 33 breaths/min
+DIAGNOSIS: Heartworm (moderate)
+
+CLINICAL SIGNS:
+Patient presented with fatigue, difficulty breathing, coughing.
+Owner reports symptoms began approximately 3 days ago.
+
+PHYSICAL EXAMINATION:
+Cats appears lethargic.
+Mild dehydration noted. 
+Lymph nodes not enlarged. 
+Significant pain on abdominal palpation.
+
+TREATMENT PLAN:
+1. doxycycline: Start immediately
+2. melarsomine: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 11 days
+
+DIETARY RECOMMENDATIONS:
+Low-sodium, high-quality diet with restricted exercise
+
+FOLLOW-UP:
+Schedule recheck appointment in 23 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #56984
+",Heartworm,DIETARY RECOMMENDATIONS:,cats,11.850298378598403,27.489700453409814,38.81881968171145,93.90447230030654,33.415905742091184,moderate
+"VETERINARY CASE NOTE
+
+DATE: 10/5/2024
+PATIENT ID: #41966
+SPECIES: ferrets
+AGE: 3 years
+WEIGHT: 5.1 kg
+TEMPERATURE: 38.0°C
+HEART RATE: 88 bpm
+RESPIRATORY RATE: 25 breaths/min
+DIAGNOSIS: Heartworm (moderate)
+
+CLINICAL SIGNS:
+Patient presented with difficulty breathing, coughing, heart failure.
+Owner reports symptoms began approximately 13 days ago.
+
+PHYSICAL EXAMINATION:
+Ferrets appears distressed.
+Mild dehydration noted. 
+Lymph nodes not enlarged. 
+Abdomen soft on palpation.
+
+TREATMENT PLAN:
+1. melarsomine: Start immediately
+2. exercise restriction: As directed
+3. Monitor hydration status and electrolytes
+4. Reassess in 11 days
+
+DIETARY RECOMMENDATIONS:
+Low-sodium, high-quality diet with restricted exercise
+
+FOLLOW-UP:
+Schedule recheck appointment in 25 days.
+Contact clinic immediately if symptoms worsen.
+Bloodwork to be repeated at recheck to assess response to treatment.
+
+Dr. Williams
+Veterinary License #77569
+",Heartworm,DIETARY RECOMMENDATIONS:,ferrets,2.930760287531414,4.500811067573642,38.01361785862067,88.3883788619308,25.583900799056188,moderate
